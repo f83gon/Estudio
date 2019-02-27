@@ -1,0 +1,28 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.64722615" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="PLUGIN_FILTER" value="debug&#10;symf&#10;sym&#10;symfony&#10;symfonu" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="git&#10;github&#10;detect indent" />
+    <property name="evlsprt3.182" value="17" />
+    <property name="evlsprt3.183" value="16" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AppData/Local/Programs/Git/bin/git.exe&#10;D:/Taller/Compras-web/templates/Altas&#10;D:/Taller/Compras-web&#10;C:/Users/FGONZALEZ/PhpstormProjects/untitled2&#10;C:/wamp64/bin/php/php7.2.10/php.exe&#10;C:/Users/FGONZALEZ/Desktop/PHP_Annotations-5.3.3 (1).zip&#10;C:/Users/FGONZALEZ/Desktop/Symfony_Plugin-0.16.167.zip&#10;C:/wamp64/bin/php/php7.2.10/phpunit-6.5.13.phar&#10;C:/wamp64/bin/php/php7.2.10/php-win.exe" />
+    <property name="file.gist.reindex.count" value="43630" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="51031" />
+    <property name="lastTip" value="16" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Desktop" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

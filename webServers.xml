@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ece9d49e-a2db-4c26-bb56-023293f94e0d" name="Estudio-web" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
